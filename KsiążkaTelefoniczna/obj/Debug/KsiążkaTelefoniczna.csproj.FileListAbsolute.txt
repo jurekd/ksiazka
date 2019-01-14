@@ -1,0 +1,6 @@
+H:\visual studio 2015\Projects\KsiążkaTelefoniczna\KsiążkaTelefoniczna\bin\Debug\KsiążkaTelefoniczna.exe.config
+H:\visual studio 2015\Projects\KsiążkaTelefoniczna\KsiążkaTelefoniczna\bin\Debug\KsiążkaTelefoniczna.exe
+H:\visual studio 2015\Projects\KsiążkaTelefoniczna\KsiążkaTelefoniczna\bin\Debug\KsiążkaTelefoniczna.pdb
+H:\visual studio 2015\Projects\KsiążkaTelefoniczna\KsiążkaTelefoniczna\obj\Debug\KsiążkaTelefoniczna.csprojResolveAssemblyReference.cache
+H:\visual studio 2015\Projects\KsiążkaTelefoniczna\KsiążkaTelefoniczna\obj\Debug\KsiążkaTelefoniczna.exe
+H:\visual studio 2015\Projects\KsiążkaTelefoniczna\KsiążkaTelefoniczna\obj\Debug\KsiążkaTelefoniczna.pdb
